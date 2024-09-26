@@ -1,0 +1,42 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration d'éditeur
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de dépendances
+/node_modules/
+/vendor/
+
+# Fichiers de build
+/build/
+/dist/
+
+# Fichiers de logs
+*.log
+npm-debug.log*
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers de cache
+.cache/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.swo
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Autres
+*.pyc
+__pycache__/
